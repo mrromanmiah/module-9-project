@@ -5,14 +5,14 @@
 
 .btn-primary {
     border-radius: 8px;
-background: #FF900E;
-border: 0;
-width: 180px;
-height: 64px;
-padding: 20px 25px;
-color: #FFF;
-font-size: 1rem;
-font-weight: 600;
+    background: #FF900E;
+    border: 0;
+    width: 180px;
+    height: 64px;
+    padding: 20px 25px;
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: 600;
 }
 
 /* header section styles */
